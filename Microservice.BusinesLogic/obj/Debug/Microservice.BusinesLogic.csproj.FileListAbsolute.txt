@@ -1,0 +1,14 @@
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\Microservice.BusinesLogic.exe.config
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\Microservice.BusinesLogic.exe
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\Microservice.BusinesLogic.pdb
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\EntityFramework.dll
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\EntityFramework.xml
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Microservice\Microservice.BusinesLogic\obj\Debug\Microservice.BusinesLogic.exe
+D:\Microservice\Microservice.BusinesLogic\obj\Debug\Microservice.BusinesLogic.pdb
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\Microservice.Common.exe
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\Microservice.DataAccess.exe
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\Microservice.Common.pdb
+D:\Microservice\Microservice.BusinesLogic\bin\Debug\Microservice.DataAccess.pdb
+D:\Microservice\Microservice.BusinesLogic\obj\Debug\Microservice.BusinesLogic.csprojResolveAssemblyReference.cache

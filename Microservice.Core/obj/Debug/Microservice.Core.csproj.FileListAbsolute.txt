@@ -1,0 +1,9 @@
+D:\Microservice\Microservice.Core\bin\Debug\Microservice.Core.exe.config
+D:\Microservice\Microservice.Core\bin\Debug\Microservice.Core.exe
+D:\Microservice\Microservice.Core\bin\Debug\Microservice.Core.pdb
+D:\Microservice\Microservice.Core\bin\Debug\EntityFramework.dll
+D:\Microservice\Microservice.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Microservice\Microservice.Core\bin\Debug\EntityFramework.xml
+D:\Microservice\Microservice.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Microservice\Microservice.Core\obj\Debug\Microservice.Core.exe
+D:\Microservice\Microservice.Core\obj\Debug\Microservice.Core.pdb

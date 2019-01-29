@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1e9f2927ec5b4377bf50310049b092fb" Name="Diagram1">
+        <EntityTypeShape EntityType="Bootcamp22Model.Item" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Bootcamp22Model.Supplier" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Bootcamp22Model.TransactionItem" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Bootcamp22Model.Transaction" Width="1.5" PointX="7.75" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="Bootcamp22Model.FK_dbo_Items_dbo_Suppliers_supplier_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Bootcamp22Model.FK_dbo_TransactionItems_dbo_Items_Itemid_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Bootcamp22Model.FK_dbo_TransactionItems_dbo_Transactions_TransactionId_Id" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,12 @@
+D:\Microservice\Microservice.Common\obj\Debug\Microservice.Common.csprojResolveAssemblyReference.cache
+D:\Microservice\Microservice.Common\bin\Debug\Microservice.Common.exe.config
+D:\Microservice\Microservice.Common\bin\Debug\Microservice.Common.exe
+D:\Microservice\Microservice.Common\bin\Debug\Microservice.Common.pdb
+D:\Microservice\Microservice.Common\bin\Debug\EntityFramework.dll
+D:\Microservice\Microservice.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Microservice\Microservice.Common\bin\Debug\Microservice.DataAccess.exe
+D:\Microservice\Microservice.Common\bin\Debug\Microservice.DataAccess.pdb
+D:\Microservice\Microservice.Common\bin\Debug\EntityFramework.xml
+D:\Microservice\Microservice.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Microservice\Microservice.Common\obj\Debug\Microservice.Common.exe
+D:\Microservice\Microservice.Common\obj\Debug\Microservice.Common.pdb
